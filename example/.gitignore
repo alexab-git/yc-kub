@@ -1,4 +1,4 @@
 private.auto.tfvars 
 .terraform/*
 .terraform.*
-terraform.*
+example/*
